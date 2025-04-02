@@ -2,11 +2,11 @@
 # WARNING: hex colors can't contain capital letters
 
 # --> Everforest
-thm_bg="#f2efdf"
+thm_bg="#edeada"
 thm_fg="#5c6a72"
 thm_cyan="#35a77c"
 thm_black="#181825" # still from catppuccin mocha
-thm_gray="#829181"
+thm_gray="#e8e5d5"
 thm_magenta="#df69ba"
 thm_pink="#df69ba"
 thm_red="#e66868"
